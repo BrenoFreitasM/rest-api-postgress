@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Database files (opcional, dependendo do conteúdo)
+db/
+
+# Config files (opcional)
+config/config.js
+
+# VSCode settings (opcional)
+.vscode/
